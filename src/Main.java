@@ -10,7 +10,7 @@ public class Main {
                 int number= Integer.parseInt(nume);
                 if (number!=0){
                     digitList.add(i, number);
-
+                   System.out.println("This is so wrong");
                 }
 
             }
